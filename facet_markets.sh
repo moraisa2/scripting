@@ -21,7 +21,7 @@ then
   uri="http://njss1-scanfd-prdss.prd.fndlsb.net/api/sports/navigation/facet/v1/search"
 elif [ $usr_in -eq 2 ]
 then
-  uri="http://prdwv-scanfd-prdwv.prd.fndlsb.net/api/sports/navigation/facet/v1/search"
+  uri="http://wv-scanfd-prdwv.prd.fndlsb.net/api/sports/navigation/facet/v1/search"
 elif [ $usr_in -eq 3 ]
 then
   uri="http://njss1-scanfd-nxt.dev.fndlsb.net/api/sports/navigation/facet/v1/search"
